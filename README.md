@@ -39,10 +39,9 @@
 <br />
 
 <!-- About Section -->
-<p align="center">
  # About me
  
-
+<p align="center">
  <img align="center" width="350" src="/assets/programming.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
