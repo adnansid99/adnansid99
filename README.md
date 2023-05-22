@@ -39,7 +39,7 @@
 <br />
 
 <!-- About Section -->
-## 💫 About Me:
+<h2> 💫 About Me:</h2>
 <samp>
 🔭 I’m currently working on "MYSELF"<br>❤️ Enjoy to do programming and sharing knowledge<br>🌱 I’m currently learning Javascript<br>💬 Ask me about [here](https://github.com/adnansid99/adnansid99/issues) <br>⚡ Fun fact "IDK :')"
   </samp>
