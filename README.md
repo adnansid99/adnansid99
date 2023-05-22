@@ -55,7 +55,6 @@
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -85,18 +84,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Adnan's GitHub Streak"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/adnansid99">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnansid99&theme=radical" alt="Adnan's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/adnansid99"><img alt="Adnan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=adnansid99&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/adnansid99"><img alt="Adnan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adnansid99&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Adnan's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adnansid99&custom_title=Adnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
