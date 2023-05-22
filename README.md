@@ -41,7 +41,7 @@
 <!-- About Section -->
 ## 💫 About Me:
 
-🔭 I’m currently working on "MYSELF"<br>❤️ Enjoy to do programming and sharing knowledge<br>🌱 I’m currently learning Javascript<br>💬 Ask me about [here](https://github.com/adnansid99/adnansid99/issues) <br>⚡ Fun fact: I am single :)
+🔭 I’m currently working on "MYSELF"<br>❤️ Enjoy to do programming and sharing knowledge<br>🌱 I’m currently learning [JavaScript](https://g.co/kgs/P26AT3)<br>💬 Ask about me [here](https://github.com/adnansid99/adnansid99/issues) <br>⚡ Fun fact: I am single :)
 
 </br>
 
