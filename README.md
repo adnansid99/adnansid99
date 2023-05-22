@@ -20,17 +20,23 @@
 </p>
 
 <p align="center">
- <a href="https://adnan.is-a-good.dev" target="blank">
+ <a href="https://adnan.eu.org" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="adnan" />
  </a>
+  <a href="https://facebook.com/a.sid99" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="adnan"  />
+  </a> 
+   <a href="https://instagram.com/a_sid99" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adnan" />
+ </a> 
  <a href="https://linkedin.com/in/adnan-siddiqui-217a07269" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan"/>
  </a>
- <a href="https://instagram.com/a_sid99" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adnan" />
+   <a href="https://wa.me/+8801841733841" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="adnan" />
  </a> 
- <a href="https://facebook.com/a.sid99" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="adnan"  />
+  <a href="https://telegram.me/Xsiddz" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="adnan"  />
   </a> 
 </p>
 <br />
