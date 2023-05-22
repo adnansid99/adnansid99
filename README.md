@@ -1,7 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=adnansid99">
   <img align="right" src="https://komarev.com/ghpvc/?username=adnansid99&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
+</br>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -35,6 +35,10 @@
   <a href="https://telegram.me/Xsiddz" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="adnan"  />
   </a> 
+  <a href="mailto:asr3012003@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 </p>
 </br>
 
