@@ -6,7 +6,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://adnan.is-a-good.dev">Adnan Siddiqui</a></b>
+                <b><a target="_blank" href="https://adnan.eu.org">Adnan Siddiqui</a></b>
         </samp>
 </h3>
 
@@ -20,9 +20,6 @@
 </p>
 
 <p align="center">
- <a href="https://adnan.eu.org" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="adnan" />
- </a>
   <a href="https://facebook.com/a.sid99" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="adnan"  />
   </a> 
