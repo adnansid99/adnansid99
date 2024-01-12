@@ -26,7 +26,7 @@
    <a href="https://instagram.com/a_sid99" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adnan" />
  </a> 
- <a href="https://linkedin.com/in/adnan-siddiqui-217a07269" target="_blank">
+ <a href="https://linkedin.com/in/adnansid99" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan"/>
  </a>
    <a href="https://wa.me/+8801841733841" target="_blank">
